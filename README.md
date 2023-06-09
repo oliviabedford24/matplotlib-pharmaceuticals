@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# matplotlib-pharmaceuticals
 
 Hi there! This is my Module 5 Challenge for Rice University's Data Visualization Bootcamp. In this challenge, I am working with Python Pandas and Matplotlib to clean, sort, and analyze data from a pharmaceutical trial of various drug regimens on mice as test subjects.
 
