@@ -4,6 +4,6 @@ Hi there! This is my Module 5 Challenge for Rice University's Data Visualization
 
 My analysis is contained within my code to explain the findings and purpose of each section. The code was written in Python but can be implemented in Jupyter notebooks as well, although it may need adjusting if you choose to use Jupyter.
 
-The code and opinions contained herein is mine and mine alone, although I did collaborate with fellow students and utilized the avenues of assistance that Rice University provides in order to complete this challenge.
+The code and opinions contained herein is mine and mine alone.
 
 Thank you!
